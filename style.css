@@ -1,0 +1,9 @@
+body {
+	background-color: #fff4ee;
+	font-family: 'EB Garamond', serif;
+}
+
+#container {
+	max-width:1000px;
+	margin: auto;
+}
