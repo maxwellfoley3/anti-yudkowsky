@@ -22,11 +22,7 @@ p {
 	margin-bottom: 20px;
 }
 
-@media (min-width:600px)  { 
-	p {
-		font-size:18px;
-	}
- }
+
 
 li {
 	line-height: 1.6;
@@ -118,3 +114,17 @@ li {
 #closer {
 	margin-top: 100px;
 }
+
+@media (min-width:600px)  { 
+	p {
+		font-size:18px;
+	}
+
+	#book-formats {
+		font-size:36px;
+	}
+
+	#title {
+		font-size:72px;
+	}
+ }
