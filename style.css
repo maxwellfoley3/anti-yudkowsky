@@ -22,6 +22,10 @@ p {
 	margin-bottom: 20px;
 }
 
+li {
+	line-height: 1.6;
+}
+
 #container {
 	max-width:800px;
 	margin: auto;
@@ -31,4 +35,80 @@ p {
 
 .subsection {
 	margin-bottom: 120px;
+}
+
+#title {
+	font-size: 128px;
+	font-weight: bold;
+}
+
+#header {
+	text-align: center;
+}
+
+#title img {
+	height: 128px;
+	top: 20px;
+	position: relative;
+}
+
+#subtitle {
+	font-size: 48px;
+	font-weight: bold;
+	top: -30px;
+	position: relative;
+}
+
+#container {
+	margin-bottom: 200px;
+}
+
+#next-chapter {
+	margin-top: 70px;
+}
+
+#author {
+	text-align: right;
+	margin-right: 20%;
+	font-size: 36px;
+	position: relative;
+	top: -20px;
+}
+
+#intro-quotes {
+	width:80%;
+	margin-left:10%;
+}
+
+#contents h2 {
+	margin-bottom: 30px;
+}
+
+#social-links {
+	margin-left:10px;
+}
+
+#intro-quotes {
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+#intro-quotes p {
+	text-indent: 0px;
+}
+
+#contents p {
+	text-indent: 0px;
+}
+
+#contents ol li a {
+	margin-left: 10px;
+}
+
+#contents ul li {
+	list-style: none;
+}
+
+#closer {
+	margin-top: 100px;
 }
