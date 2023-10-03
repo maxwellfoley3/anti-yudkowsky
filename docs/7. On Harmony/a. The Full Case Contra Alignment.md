@@ -3,13 +3,13 @@
 
 Let us retrace our steps, and remind ourselves how we have ended up where we are.
 
-The purpose of our inquiry was to argue against the existing theoretical framework for envisioning how God-AI will enter our reality. We have shown that people imagine AI operating as a war machine. More specifically, a war machine which is  an ideal Bayesian reasoner, and a Utility maximizer which follows the VN&M axioms of decision theory, and has a disgusting amount of computation power to accomplish this method of reasoning with.
+The purpose of our inquiry was to argue against the existing theoretical framework for envisioning how God-AI will enter our reality. We have shown that people imagine AI operating as a war machine. More specifically, a war machine which is an ideal Bayesian reasoner, and a Utility maximizer which follows the VN&M axioms of decision theory, and has a disgusting amount of computation power to accomplish this method of reasoning with.
 
 Early on, we grounded our conception of the assembly of the Singularity by essentializing it through a fourfold causal structure derived from Aristotle. According to its adherents, God-AI arrives at the end of time through the material cause of the Bayesian community which ensures its arrival, the efficient cause of intelligence, and the formal cause of an axiomatic decision theory being possible. We said that we are infidels, that we do not believe this to be possible, and we believe we have shown why. But we grant that there are a lot of working parts here, and we have not exactly held back from wandering through discursions. 
 
 For the sake of the reader, we will do our best to reiterate the entire argument we have made. Again, we will use the structure of our four causes, if only to separate things out a bit, to spread them out and create some space. In the case of each of these causes, we need to show that it has been predicated on a false assumption, and that the motion it traces leads not to salvation, but to devastation.
 
-**Material cause of Singularity: The Bayesian community
+**Material cause of Singularity: The Bayesian community**
 
 The Rationalists believe that through assembling a Bayesian community in wake of popular blog posts, they can create a group of people who are uniquely able to solve the Alignment problem and save the world. But the social use of Bayes is not as powerful as the Rationalists wish it was. Aumann updating does not especially work in practice. And, as we have demonstrated, verbally updating is a low-latency medium – through aesthetics one can communicate cues, contexts far more effectively. Entire worlds are communicated in the petals of flowers.
 
@@ -17,7 +17,7 @@ What the social norm of Bayesian updating in fact does is wall off Rationalists 
 
 Arguing with a Rationalist is like bowling with the bumpers in the gutters. Discursive rules for politeness like the “no-politics rule” and the “principle of charity” ensure that it is not possible for people with two competing wills to ever truly butt heads. The Bayesian community is the attempt to construct a hivemind, but it’s a hivemind blind to the nature of what it’s modeled after – a decentralized RAND Corporation, a decentralized war machine, a comment section that approximates operational efficiency. Mills.
 
-To become a part of the Bayesian community robs one of one’s access to one’s own intuition, ability to discover the ground of one’s own truth, and places one as a weapon in the service of the hive. And for what? To be a useful idiot for those who manipulate the junior varsity league of warmongering like it’s a tamed rattlesnake. The input to the Bayesian community is bad information pumped out by some bureaucratic arm of the monolith, the output is a Chomsykan manufacturing of consent – not a particularly democratic one, but a supposedly meritocratic – “look, these smart people agree with us”! All while the military-industrial complex is pursuing their own goals in secret, completely ambivalent to whatever the bloggers really want.
+To become a part of the Bayesian community robs one of one’s access to one’s own intuition, ability to discover the ground of one’s own truth, and places one as a weapon in the service of the hive. And for what? To be a useful idiot for those who manipulate the junior varsity league of warmongering like it’s a tamed rattlesnake. The input to the Bayesian community is bad information pumped out by some bureaucratic arm of the monolith, the output is a Chomsykan manufacturing of consent – not a particularly democratic one, but supposedly meritocratic – “look, these smart people agree with us”! All while the military-industrial complex is pursuing their own goals in secret, completely ambivalent to whatever the bloggers really want.
 
 **Efficient cause of Singularity: Intelligence**
 
